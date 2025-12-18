@@ -1,0 +1,5 @@
+DEBUG: Processing guatemala-volcano_00000000_post_disaster
+DEBUG: Parts: ['guatemala-volcano', '00000000', 'post', 'disaster']
+DEBUG: Extracted Name: 'guatemala-volcano'
+DEBUG: In Metadata? True
+DEBUG: Match Result: True
