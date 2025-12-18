@@ -431,4 +431,5 @@ This project is licensed under the MIT License.
 
 **Built with ❤️ for disaster response and humanitarian aid**
 
-*Last Updated: November 2024*
+*Last Updated: December 2025*
+
